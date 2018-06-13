@@ -5,4 +5,5 @@ Project: IBMM | NodeMCU ESP32 Tutorials
 
 Board development used in these tutorials is EH-MT LIVE DEVKIT
 
-
+Before procedding with tutorials in this repository watch https://youtu.be/-ZioPa59ng4
+for installation of softwares.
