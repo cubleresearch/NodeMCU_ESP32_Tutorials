@@ -4,6 +4,7 @@
   Project: IBMM | NodeMCU ESP32 Tutorials
   Embedded System and Robotics Research Group - https://electronicscu.wixsite.com/research
   GitHub - https://github.com/cubleresearch/NodeMCU_ESP32_Tutorials
+  YouTube - https://youtu.be/ZMk7B28F05A
 
   Upload date: 13 June 2018
 
