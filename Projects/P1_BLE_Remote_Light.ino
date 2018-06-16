@@ -3,15 +3,15 @@
   Project: IBMM | NodeMCU ESP32 Tutorials
   Embedded System and Robotics Research Group - https://electronicscu.wixsite.com/research
 
-  GitHub - https://github.com/cubleresearch/NodeMCU_ESP32_Tutorials
+  GitHub - https://github.com/cubleresearch/NodeMCU_ESP32_Tutorials/tree/master/Projects
   YouTube - https://youtu.be/qoBqcQsEqZo
 
   Upload date: 16 June 2018
 
   BLE_Remote_Light
 
-  MCU: NodeMCU ESP32-WROOM-32 - https://www.espressif.com/en/esp-wroom-32/resources
   Board: EH-MT LIVE ESP32 DEVKIT
+  MCU: NodeMCU ESP32-WROOM-32 - https://www.espressif.com/en/esp-wroom-32/resources
   BLE Library: ESP32_BLE_Arduino - https://github.com/nkolban/ESP32_BLE_Arduino
   Custom UUID Generator - https://www.uuidgenerator.net/
   Android App Designer: MIT App Inventor - ai2.appinventor.mit.edu
