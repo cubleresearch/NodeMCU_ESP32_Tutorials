@@ -10,7 +10,7 @@
 
   BLE_Remote_Light
 
-  Board: EH-MT LIVE ESP32 DEVKIT
+  Board: MH-ET LIVE ESP32 DEVKIT
   MCU: NodeMCU ESP32-WROOM-32 - https://www.espressif.com/en/esp-wroom-32/resources
   BLE Library: ESP32_BLE_Arduino - https://github.com/nkolban/ESP32_BLE_Arduino
   Custom UUID Generator - https://www.uuidgenerator.net/
