@@ -4,7 +4,7 @@
   Embedded System and Robotics Research Group - https://electronicscu.wixsite.com/research
 
   GitHub - https://github.com/cubleresearch/NodeMCU_ESP32_Tutorials/tree/master/Projects
-  YouTube - ___________________
+  YouTube - https://youtu.be/yf_25O3xtvs
 
   Upload date: 26 June 2018
 
