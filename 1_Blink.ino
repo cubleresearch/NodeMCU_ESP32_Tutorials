@@ -18,7 +18,7 @@
   This sketch turns on and off on board LED for one second each repeatedly.
 
   SETUP
-  1) Set pin mode of pin LED_BUILTIN(Pin 5) to OUTPUT
+  1) Set pin mode of pin LED_BUILTIN(Pin 2) to OUTPUT
 
   LOOP
   1) Write HIGH to pin LED_BUILTIN
@@ -26,7 +26,7 @@
   3) Write LOW to pin LED_BUILTIN
   4) Delay execution for 1000ms
 
-  NOTE: If you connect an external LED to pin 5 external LED will glow in alternate to on board LED because on board LED is connected to VCC
+  NOTE: If you connect an external LED to pin 2 external LED will glow in alternate to on board LED because on board LED is connected to VCC
 */
 
 // the setup function runs once when you press reset or power the board
